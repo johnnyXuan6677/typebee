@@ -1,7 +1,7 @@
 import curses
 from curses import wrapper
 import time 
-
+###typebee code 
 def start_screen(stdscr):
     stdscr.clear()
     stdscr.addstr("Welcome to typing BEE training ! Have Fun (๑´ڡ`๑) ")
